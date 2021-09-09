@@ -1,4 +1,4 @@
-# Mohsina Portfolio
+# Python based projects:
 
 # [Project 1 - Meal Planner](https://github.com/mohsinaav/Meal-Planner/tree/master)
 - A web based application that helps in planning meals for a week ahead and to be stress free.
