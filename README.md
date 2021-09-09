@@ -1,4 +1,4 @@
-# Mohsina Portfolio
+# Python based projects
 
 
 #Project 1 - Meal Planner
