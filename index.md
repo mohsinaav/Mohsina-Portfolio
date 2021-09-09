@@ -1,6 +1,6 @@
 # Mohsina Portfolio
 
-# Project 1 - Meal Planner
+# [Project 1 - Meal Planner](https://github.com/mohsinaav/Meal-Planner/tree/master)
 - A web based application that helps in planning meals for a week ahead and to be stress free.
 - It is written in python language using flask micro framework and SQLAlchemy as database.
 - A user can add their own recipes or upload them to particular categories. 
